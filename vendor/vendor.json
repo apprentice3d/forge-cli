@@ -1,0 +1,187 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "813YL+r3HMxy1WVs5XSW2lf5NOU=",
+			"path": "github.com/apprentice3d/forge-api-go-client/dm",
+			"revision": "29ffed54d18a85841c0753c11979e3e479182ae3",
+			"revisionTime": "2018-03-07T03:36:46Z"
+		},
+		{
+			"checksumSHA1": "BytnFqieOhCd55vyb4IruawAN2o=",
+			"path": "github.com/apprentice3d/forge-api-go-client/oauth",
+			"revision": "29ffed54d18a85841c0753c11979e3e479182ae3",
+			"revisionTime": "2018-03-07T03:36:46Z"
+		},
+		{
+			"checksumSHA1": "7NP1qUMF8Kx1y0zANxx0e+oq9Oo=",
+			"path": "github.com/fsnotify/fsnotify",
+			"revision": "c2828203cd70a50dcccfb2761f8b1f8ceef9a8e9",
+			"revisionTime": "2018-01-10T05:33:47Z"
+		},
+		{
+			"checksumSHA1": "HtpYAWHvd9mq+mHkpo7z8PGzMik=",
+			"path": "github.com/hashicorp/hcl",
+			"revision": "f40e974e75af4e271d97ce0fc917af5898ae7bda",
+			"revisionTime": "2018-03-20T20:20:55Z"
+		},
+		{
+			"checksumSHA1": "XQmjDva9JCGGkIecOgwtBEMCJhU=",
+			"path": "github.com/hashicorp/hcl/hcl/ast",
+			"revision": "f40e974e75af4e271d97ce0fc917af5898ae7bda",
+			"revisionTime": "2018-03-20T20:20:55Z"
+		},
+		{
+			"checksumSHA1": "/15SVLnCDzxICSatuYbfctrcpSM=",
+			"path": "github.com/hashicorp/hcl/hcl/parser",
+			"revision": "f40e974e75af4e271d97ce0fc917af5898ae7bda",
+			"revisionTime": "2018-03-20T20:20:55Z"
+		},
+		{
+			"checksumSHA1": "WR1BjzDKgv6uE+3ShcDTYz0Gl6A=",
+			"path": "github.com/hashicorp/hcl/hcl/printer",
+			"revision": "f40e974e75af4e271d97ce0fc917af5898ae7bda",
+			"revisionTime": "2018-03-20T20:20:55Z"
+		},
+		{
+			"checksumSHA1": "2yAyqWxkMg1qpjx502/styJhiwg=",
+			"path": "github.com/hashicorp/hcl/hcl/scanner",
+			"revision": "f40e974e75af4e271d97ce0fc917af5898ae7bda",
+			"revisionTime": "2018-03-20T20:20:55Z"
+		},
+		{
+			"checksumSHA1": "oS3SCN9Wd6D8/LG0Yx1fu84a7gI=",
+			"path": "github.com/hashicorp/hcl/hcl/strconv",
+			"revision": "f40e974e75af4e271d97ce0fc917af5898ae7bda",
+			"revisionTime": "2018-03-20T20:20:55Z"
+		},
+		{
+			"checksumSHA1": "c6yprzj06ASwCo18TtbbNNBHljA=",
+			"path": "github.com/hashicorp/hcl/hcl/token",
+			"revision": "f40e974e75af4e271d97ce0fc917af5898ae7bda",
+			"revisionTime": "2018-03-20T20:20:55Z"
+		},
+		{
+			"checksumSHA1": "PwlfXt7mFS8UYzWxOK5DOq0yxS0=",
+			"path": "github.com/hashicorp/hcl/json/parser",
+			"revision": "f40e974e75af4e271d97ce0fc917af5898ae7bda",
+			"revisionTime": "2018-03-20T20:20:55Z"
+		},
+		{
+			"checksumSHA1": "afrZ8VmAwfTdDAYVgNSXbxa4GsA=",
+			"path": "github.com/hashicorp/hcl/json/scanner",
+			"revision": "f40e974e75af4e271d97ce0fc917af5898ae7bda",
+			"revisionTime": "2018-03-20T20:20:55Z"
+		},
+		{
+			"checksumSHA1": "fNlXQCQEnb+B3k5UDL/r15xtSJY=",
+			"path": "github.com/hashicorp/hcl/json/token",
+			"revision": "f40e974e75af4e271d97ce0fc917af5898ae7bda",
+			"revisionTime": "2018-03-20T20:20:55Z"
+		},
+		{
+			"checksumSHA1": "NiPRC0JDsfCFir75S1TrFHPP8+M=",
+			"path": "github.com/magiconair/properties",
+			"revision": "2c9e9502788518c97fe44e8955cd069417ee89df",
+			"revisionTime": "2018-02-17T13:45:45Z"
+		},
+		{
+			"checksumSHA1": "KGCifxxR5cm2gz94i2iha+RIZlk=",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "ce7b0b5c7b45a81508558cd1dba6bb1e4ddb51bb",
+			"revisionTime": "2018-04-08T05:53:51Z"
+		},
+		{
+			"checksumSHA1": "V/quM7+em2ByJbWBLOsEwnY3j/Q=",
+			"path": "github.com/mitchellh/go-homedir",
+			"revision": "b8bc1bf767474819792c23f32d8286a45736f1c6",
+			"revisionTime": "2016-12-03T19:45:07Z"
+		},
+		{
+			"checksumSHA1": "Yvzge1YQcD/wSDXLD5qNHqmI/0s=",
+			"path": "github.com/mitchellh/mapstructure",
+			"revision": "00c29f56e2386353d58c599509e8dc3801b0d716",
+			"revisionTime": "2018-02-20T23:01:11Z"
+		},
+		{
+			"checksumSHA1": "txsZLJ7XQsUIoAze9dD+XHYJguk=",
+			"path": "github.com/olekukonko/tablewriter",
+			"revision": "b8a9be070da40449e501c3c4730a889e42d87a9e",
+			"revisionTime": "2018-01-30T16:27:43Z"
+		},
+		{
+			"checksumSHA1": "hdyVmbhZdcRLU8ZmYgE2GqmewBo=",
+			"path": "github.com/pelletier/go-toml",
+			"revision": "05bcc0fb0d3e60da4b8dd5bd7e0ea563eb4ca943",
+			"revisionTime": "2018-02-28T23:36:31Z"
+		},
+		{
+			"checksumSHA1": "F3JU4T4XXvZTRAcv6rhTao4QGos=",
+			"path": "github.com/spf13/afero",
+			"revision": "bbf41cb36dffe15dff5bf7e18c447801e7ffe163",
+			"revisionTime": "2018-02-11T16:21:14Z"
+		},
+		{
+			"checksumSHA1": "X6RueW0rO55PbOQ0sMWSQOxVl4I=",
+			"path": "github.com/spf13/afero/mem",
+			"revision": "bbf41cb36dffe15dff5bf7e18c447801e7ffe163",
+			"revisionTime": "2018-02-11T16:21:14Z"
+		},
+		{
+			"checksumSHA1": "Hc2i9OOK34PAImuNftTaHdbdLgs=",
+			"path": "github.com/spf13/cast",
+			"revision": "8965335b8c7107321228e3e3702cab9832751bac",
+			"revisionTime": "2018-02-14T17:35:30Z"
+		},
+		{
+			"checksumSHA1": "12g3NDgLPvSJcPKEKzU42m6GWVI=",
+			"path": "github.com/spf13/cobra",
+			"revision": "c439c4fa093711d42e1b01acb1235b52004753c1",
+			"revisionTime": "2018-03-19T06:20:04Z"
+		},
+		{
+			"checksumSHA1": "+JFKK0z5Eutk29rUz1lEhLxHMfk=",
+			"path": "github.com/spf13/jwalterweatherman",
+			"revision": "7c0cea34c8ece3fbeb2b27ab9b59511d360fb394",
+			"revisionTime": "2018-01-09T13:55:06Z"
+		},
+		{
+			"checksumSHA1": "tfKmT8uovT9Ch2YyDJtti3egAB4=",
+			"path": "github.com/spf13/pflag",
+			"revision": "ee5fd03fd6acfd43e44aea0b4135958546ed8e73",
+			"revisionTime": "2018-02-20T14:32:36Z"
+		},
+		{
+			"checksumSHA1": "AB/VGCv0NIjGYZXhJUBSbVIsOJw=",
+			"path": "github.com/spf13/viper",
+			"revision": "b5e8006cbee93ec955a89ab31e0e3ce3204f3736",
+			"revisionTime": "2018-03-19T18:50:19Z"
+		},
+		{
+			"checksumSHA1": "mvZhSk61LHm/3jgIL8L2vuXcxb8=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "7ceb54c8418b8f9cdf0177b511d5cbb06e9fae39",
+			"revisionTime": "2018-03-20T10:28:11Z"
+		},
+		{
+			"checksumSHA1": "ziMb9+ANGRJSSIuxYdRbA+cDRBQ=",
+			"path": "golang.org/x/text/transform",
+			"revision": "7922cc490dd5a7dbaa7fd5d6196b49db59ac042f",
+			"revisionTime": "2018-04-05T08:39:28Z"
+		},
+		{
+			"checksumSHA1": "lN2xlA6Utu7tXy2iUoMF2+y9EUE=",
+			"path": "golang.org/x/text/unicode/norm",
+			"revision": "7922cc490dd5a7dbaa7fd5d6196b49db59ac042f",
+			"revisionTime": "2018-04-05T08:39:28Z"
+		},
+		{
+			"checksumSHA1": "AnKBN2Q4AWaSNb0JyINBQbnpxGM=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "7f97868eec74b32b0982dd158a51a446d1da7eb5",
+			"revisionTime": "2018-02-23T19:12:37Z"
+		}
+	],
+	"rootPath": "github.com/apprentice3d/forge-cli"
+}
